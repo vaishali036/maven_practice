@@ -11,6 +11,7 @@
 	<groupId>com.locationweb</groupId>
 	<artifactId>locationweb8</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>locationweb8</name>
 	<description>locationweb project</description>
 	<properties>
