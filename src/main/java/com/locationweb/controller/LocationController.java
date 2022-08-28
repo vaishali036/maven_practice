@@ -20,7 +20,7 @@ public class LocationController {
 	@Autowired
 	private LocationService locationService;
 		
-	@RequestMapping("/show")
+	@GetMapping("/show")
 	public String showLocationPage() {
 		return "create_Location";
 	}
